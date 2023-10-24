@@ -6,7 +6,7 @@
 3.檔案放入htdoc</br>
 4.開啟瀏覽器http://localhost/side-project/dashboard.html</br>
 
-負責部分:優惠券增刪查改(CRUD)</br>
+# 負責部分:優惠券增刪查改(CRUD)</br>
 discountIndex_Ch.php(目錄)</br>
 discountCreat_Ch.php(新增頁面)</br>
 editPage_Ch.php(編輯頁面)</br>
